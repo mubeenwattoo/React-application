@@ -1,0 +1,219 @@
+@media (max-width:414px){
+
+.firsti{
+    gap: 10px;
+}
+.hii{
+  margin-right: -40px!important;
+}
+
+}
+
+@media (max-width:926px){
+    .form-control{
+  width: 250px;
+    }
+  }
+  
+  @media (max-width:772px){
+  
+  .form-control{
+    width: 140px;
+    height: 30px;
+    margin-top: 16px!important;
+  }
+  
+  .search{
+    width: 70px;
+  }
+  .advance{
+    width: 100px;
+    font-size: smaller;
+    margin-left: 100px;
+  }
+
+  }
+  
+  @media (max-width:544px){
+.advance{
+    margin-left: 30px;
+}
+.search{
+    margin-left: 20px;
+}
+
+  }
+
+  @media (max-width:493px){
+.advance{
+width: 80px;
+height: 40px;
+}
+.search{
+    margin-left: 5px;
+}
+
+.advance{
+}
+
+  }
+
+  @media (max-width:414px){
+.advance{
+    margin-left: 60px;
+}
+.search{
+    margin-left: 30px;
+}
+.form-control{
+    margin-left: 20px;
+}
+  }
+
+  @media (max-width:1014px){
+.thirdtwo{
+    margin-left: 150px;
+}
+  }
+
+
+  @media (max-width:817px){
+.thirdone{
+    margin-left: -170px;
+}
+
+.thirdtwo{
+    width: 400px;
+}
+.thirdthird{
+    width: 300px;
+
+  }
+
+
+  }
+
+  @media (max-width:656px){
+.thirdthird{
+  
+}
+  }
+
+
+
+
+
+
+  @media (max-width:767px){
+
+.thirdone{
+    margin-left: 130px;
+    width: 350px;
+}
+  }
+
+
+  @media (max-width:589px){
+.thirdone{
+    margin-left:80px ;
+    width: 300px;
+
+}
+.thirdtwo{
+    margin-left: 50px;
+}
+  }
+
+
+  @media (max-width:414px){
+.thirdone{
+    margin-left: 130px;
+}
+.thirdtwo{
+    width: 450px;
+}
+.thirdthird{
+    margin-left: 40px;
+}
+  }
+
+
+  @media (max-width:604px){
+
+.thirdtwo{
+  width: 300px;
+}
+.thirdthird{
+  width: 250px;
+margin-left: 2rem !important;
+
+}
+  }
+  @media (max-width:1025px){
+    .third{
+      height: 150vh;
+    }
+#science{
+    margin-top: 2rem;
+}
+.thirdthird{
+  margin-left: 150px;
+}
+.thirdtwo{
+  margin-left: 130px;
+}
+  }
+
+  @media (max-width:804px){
+.sub2{
+    margin-left: 40px;
+}
+
+  }
+
+
+  @media (max-width:767px){
+    .container-fluid .sub1{
+        margin-left: 250px;
+    }
+  }
+
+
+  @media (max-width:555px){
+.container-fluid .sub1{
+    margin-left: 180px;
+    margin-bottom: 2rem;
+}
+.container-fluid .sub2{
+    margin-top: 4rem;
+
+
+}
+  }
+
+
+  @media (max-width:639px){
+    .container-fluid .sub3{
+margin-left: 190px;
+margin-top: 2rem;
+    }
+  }
+
+
+  @media (max-width:414px){
+#science{
+    margin-top: 5rem;
+}
+ #science .container-fluid{
+    width: 1100px;
+}
+#science .title{
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+.container-fluid .sub2{
+
+margin-left: -1px !important;
+
+}
+  }

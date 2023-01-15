@@ -1,0 +1,29 @@
+
+
+  
+  .seconddd{
+    width: 1350px;
+    height: 60px;
+    background-color: #F9F4DB;
+    overflow-x: hidden;
+
+  }
+  
+  .third{
+    width: 1365px;
+     height: 90vh;
+     margin-top: 60px;
+     display: flex;
+     overflow-x: hidden;
+    
+  }
+
+.thirdtwo{
+    margin-left: -100px;
+    margin-right: 150px;
+
+}
+.container-fluid{
+    display: flex;
+}
+
